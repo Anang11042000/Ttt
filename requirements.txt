@@ -1,4 +1,5 @@
 requests
+base64
 bs64
 datetime
 python-telegram-bot==13.7

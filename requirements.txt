@@ -1,0 +1,4 @@
+requests
+bs64
+datetime
+python-telegram-bot==13.7

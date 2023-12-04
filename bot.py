@@ -5,7 +5,7 @@ from datetime import timedelta
 from telegram import Bot
 from telegram.ext import CommandHandler, Updater, MessageHandler, Filters, CallbackQueryHandler
 
-GITHUB_TOKEN = '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'
+GITHUB_TOKEN = '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'
 TELEGRAM_BOT_TOKEN = '6363527340:AAGWoPQnlwXkO2RQvAQd0iGQHgprAH3a8_4'
 REPO_OWNER = 'anang11042000'
 REPO_NAME = 'vps'
